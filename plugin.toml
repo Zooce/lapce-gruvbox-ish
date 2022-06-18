@@ -1,0 +1,7 @@
+name = "gruvbox-ish"
+display-name = "Gruvbox-ish"
+description = "Kind of like Gruvbox"
+version = "0.1.0"
+author = "Zooce"
+repository = "Zooce/gruvbox-ish"
+themes = ["gruvbox-ish-dark.toml"]
